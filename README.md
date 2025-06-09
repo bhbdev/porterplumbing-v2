@@ -1,4 +1,4 @@
-# pp-v2
+# porterplumbing-v2
 
 HTML5, SCSS mockup for Porter Plumbing 
 
@@ -7,8 +7,7 @@ This was a simple HTML5 mockup I whipped up for my neighbor who was starting up 
 I believe the plan was to deploy this onto AWS using S3 and Cloudfront which I did for the preview 
 at some point in 2019.
 
-
-(ss1.png)
+<img src="ss1.png" alt="preview" style="width: 350px; margin: 0 auto " />
 
 #### Notes
 *This is part of a handful of example work that I'm adding to Github for archival purposes.*
